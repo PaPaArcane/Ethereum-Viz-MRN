@@ -1,2 +1,5 @@
 # ETH-Group-Project-
-A composite repository, consisting of project files, visuals, and data.
+
+# This repository, is an example of an Ethereum Visualisation Used for Marketing Purposes.
+
+
